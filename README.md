@@ -36,10 +36,13 @@
 **[공지사항 (연휴안내 등) 기준 HTML 코드]**
 - 사운드판다
 <img src="http://gi.esmplus.com/raffinew/soundpanda/00A_top_common/01_notice/notice.gif" alt="사운드판다 공지사항">
-
+```
+<img src="http://gi.esmplus.com/raffinew/soundpanda/00A_top_common/01_notice/notice.gif" alt="사운드판다 공지사항">
+```
 - 판다지아
+```
 <img src="https://gi.esmplus.com/raffinew/pandasia/00A_top_common/01_notice/pandasia_notice.gif" alt="판다지아 공지사항">
-
+```
 
 ## 업로드 방법
 
