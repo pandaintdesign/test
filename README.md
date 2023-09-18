@@ -1,16 +1,16 @@
 # 필독!
-이곳은 "원격저장소"로 **White의 컴퓨터 폴더(로컬저장소)** 와 연동 되어있습니다! 로컬저장소 폴더 삭제엄금!   
+이곳은 "원격저장소"로 **White의 컴퓨터 폴더(로컬저장소)** 와 연동 되어있습니다! **로컬저장소 폴더 삭제엄금!**
 
+**로컬저장소명 : Pandain_Product_Dev**
+
+**[유의사항]**
 ```
-[유의사항]
-
- 1. 새로운 제품군을 생성할 때에는 "basic폴더"를 Copy하여 생성합니다.
+ 1. 새로운 제품군을 생성할 때에는 "add new"폴더를 Copy하여 생성합니다.
  2. 영상의 경우 아래 [영상 삽입 방법]항목에서 코드 긁어옵니다. src 항목에 영상 경로 삽입.
 ```
 
+**[영상 삽입 방법] - 각 플랫폼 마다 다름**
 ```
-[영상 삽입 방법] - 각 플랫폼 마다 다름
-
 1. 공식몰(카페24)
 <div class="dpage_wrap" style="margin: 0 auto 20px;">
    <iframe class="dpage_youtube" width="100%" height="100%" src="영상 url" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -32,18 +32,16 @@
 
 ```
 
-```
-[공지사항 (연휴안내 등) 기준 HTML 코드
+
+**[공지사항 (연휴안내 등) 기준 HTML 코드]**
 - 사운드판다
 <img src="http://gi.esmplus.com/raffinew/soundpanda/00A_top_common/01_notice/notice.gif" alt="사운드판다 공지사항">
 
 - 판다지아
 <img src="https://gi.esmplus.com/raffinew/pandasia/00A_top_common/01_notice/pandasia_notice.gif" alt="판다지아 공지사항">
-```
+
 
 ## 업로드 방법
-
-**로컬저장소명 : SOUNDPANDA_HTML**
 
 **[유실을 대비한 공용폴더 백업과 코드 백업방법 영상]**
 [SOUNDPANDA_code](https://drive.google.com/drive/folders/1YXS5nTr0FRrZiL20rfLOcKGP6cGa8Dwo?usp=sharing, "SOUNDPANDA_code")
