@@ -96,5 +96,32 @@ git pull
 
 
 
+
+**git init 순서 백업**
+init은 로컬저장소와 원격저장소를 서로 연결해 주는 명령어
+
+**[명령어 순서 - 첫 연결 및 마스터 브랜치 생성]**
+echo "# test" >> README.md
+1.git init
+2.git add README.md (. 는 모든 폴더 및 파일 업로드)
+3.git commit -m "first commit(아무거나 써도 됨)"
+4.git branch -M main (브랜치명을 설정, 여기서는 main이 곧 브랜치명)
+5.git remote add origin https://github.com/pandaintdesign/폴더명.git
+6.git push -u origin main (업로드 할 때 마지막에 브랜치명을 입력해 주세요. 이부분은 추후 업로드일 때도 똑같음)
+
+
+**[업로드 하는 방법]**
+1.git remote add origin https://github.com/pandaintdesign/폴더명.git
+2.git branch -M main
+3.git push -u origin main
+
+
+
+
+
+
+
+
+
 이 필독서는 "마크다운 언어"로 만들어졌습니다.
 수정 시에는 마크다운 "언어 문법"을 참고해주세요.
