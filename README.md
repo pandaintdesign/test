@@ -38,7 +38,23 @@
 사운드판다 : <img src="http://gi.esmplus.com/raffinew/soundpanda/00A_top_common/01_notice/notice.gif" alt="사운드판다 공지사항">
 판다지아 : <img src="https://gi.esmplus.com/raffinew/pandasia/00A_top_common/01_notice/pandasia_notice.gif" alt="판다지아 공지사항">
 ```
-- 판다지아
+
+**[이미지 사이즈 fixed(자사몰 한정)코드]**
+
+```
+  .wrapper {
+		margin: 0 auto; max-width: 100%;
+	}
+	
+	.wrapper .detail {
+		width: 860px; margin: 0 auto;
+	}
+	
+	.detail img {
+		width: 100%; text-align: center;
+	}
+
+```
 
 
 ## 업로드 방법
