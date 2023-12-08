@@ -39,7 +39,7 @@
 판다지아 : <img src="https://gi.esmplus.com/raffinew/pandasia/00A_top_common/01_notice/pandasia_notice.gif" alt="판다지아 공지사항">
 ```
 
-**[이미지 사이즈 fixed(자사몰 한정)코드]**
+**[상세페이지 이미지 사이즈 고정값 css(카페24 한정)코드]**
 
 ```
   .wrapper {
