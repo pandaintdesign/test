@@ -35,8 +35,14 @@
 
 **[공지사항 (연휴안내 등) 기준 HTML 코드]**
 ```
-사운드판다 : <img src="http://gi.esmplus.com/raffinew/soundpanda/00A_top_common/01_notice/notice.gif" alt="사운드판다 공지사항">
-판다지아 : <img src="https://gi.esmplus.com/raffinew/pandasia/00A_top_common/01_notice/pandasia_notice.gif" alt="판다지아 공지사항">
+🔹사운드판다 : <img src="http://gi.esmplus.com/raffinew/soundpanda/00A_top_common/01_notice/notice.gif" alt="사운드판다 공지사항">
+🔹판다지아 : <img src="https://gi.esmplus.com/raffinew/pandasia/00A_top_common/01_notice/pandasia_notice.gif" alt="판다지아 공지사항">
+🔹더클러 : <img src="https://gi.esmplus.com/raffinew/theclur/00_top_common/notice.gif" alt="공지사항">
+
+
+공지사항 업로드 시 gif, jpg 버전 2개 업로드 해주세요.
+gif : 공지 내 움직임 모션이 추가될 것을 감안해 사용하는 디폴트 포멧
+jpg : 쿠팡 등 Only 이미지만 지원되는 플랫폼들을 위한 포멧
 ```
 
 **[상세페이지 이미지 사이즈 고정값 css(카페24 한정)코드]**
