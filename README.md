@@ -1,4 +1,4 @@
-# 필독!
+![연말연초휴무_231215](https://github.com/pandaintdesign/Product_Dev/assets/87678106/a5a4b2f5-c467-4f1a-b2e3-1e70bbd4e800)# 필독!
 이곳은 "원격저장소"로 **White의 컴퓨터 폴더(로컬저장소)** 와 연동 되어있습니다! **로컬저장소 폴더 삭제엄금!**
 
 **로컬저장소명 : Pandain_Product_Dev**
@@ -37,6 +37,7 @@
 ```
 사운드판다 : <img src="http://gi.esmplus.com/raffinew/soundpanda/00A_top_common/01_notice/notice.gif" alt="사운드판다 공지사항">
 판다지아 : <img src="https://gi.esmplus.com/raffinew/pandasia/00A_top_common/01_notice/pandasia_notice.gif" alt="판다지아 공지사항">
+더클러 : <img src="https://gi.esmplus.com/raffinew/theclur/00_top_common/notice.gif" alt="공지사항">
 ```
 
 **[상세페이지 이미지 사이즈 고정값 css(카페24 한정)코드]**
