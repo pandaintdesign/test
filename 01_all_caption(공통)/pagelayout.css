@@ -1,4 +1,28 @@
+/* 1군 */
+
 /* 카페24 */
+.wrapper {
+    margin: 0 auto; max-width: 100%;
+}
+
+.wrapper .detail {
+    width: 860px; margin: 0 auto;
+}
+
+.detail img {
+    width: 100%; text-align: center;
+}
+
+
+
+/* 쿠팡 */
+.wrapper{
+    max-width: 780px;
+    width: 100%; 
+    margin: 0 auto 10px; 
+    text-align:center; 
+    box-sizing: border-box;
+}
 
 /* 카카오쇼핑하기, 선물하기 */
 .wrapper{
