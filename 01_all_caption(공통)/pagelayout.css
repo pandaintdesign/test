@@ -2,15 +2,19 @@
 
 /* 카페24 */
 .wrapper {
-    margin: 0 auto; max-width: 100%;
+    margin: 0 auto; max-width: 860px;
 }
 
-.wrapper .detail {
+.wrapper .detail, .top_notice, .bottom_notice {
     width: 860px; margin: 0 auto;
 }
 
 .detail img {
     width: 100%; text-align: center;
+}
+
+iframe {
+height: 480px;
 }
 
 
