@@ -30,3 +30,25 @@ height: 480px;
 .wrapper{
     max-width: 750px;
 }
+
+
+
+
+/* 1군 */
+
+/* 위메프 2.0 */
+.wrapper {
+    margin: 0 auto; max-width: 758px;
+}
+
+.wrapper .detail, .top_notice, .bottom_notice {
+    width: 758px; margin: 0 auto;
+}
+
+.detail img {
+    width: 100%; text-align: center;
+}
+
+iframe {
+height: 480px;
+}
