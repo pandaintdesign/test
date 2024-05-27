@@ -110,6 +110,32 @@ git pull
 
 ```
 
+```
+G9 시리즈 영상 url
+
+[G9 인트로 링크]
+https://www.youtube.com/embed/ZAzHVNHaOBs
+https://www.youtube.com/embed/5uxVd0_aVqw
+https://www.youtube.com/embed/v8Vf2NjOnsA
+
+
+[재민tv링크]
+https://www.youtube.com/embed/CNdAvMZDFmc
+
+
+[사용방법 영상 링크]
+
+https://www.youtube.com/embed/qUGbwYfvk5A
+
+https://www.youtube.com/embed/4owwO2-46mQ
+
+https://www.youtube.com/embed/bq-WwLz8aEU
+
+https://www.youtube.com/embed/5DQDpOGYk2g
+
+https://www.youtube.com/embed/_KDu-TsI0LQ
+```
+
 - [깃허브 명령어](https://eehoeskrap.tistory.com/666)
 - [git origin(원문)](https://git-scm.com)
 
