@@ -32,12 +32,20 @@
   </div>
 </div>
 
+
 4. 위메프2.0
 <div>
 	<span class="fr-video fr-fvc fr-dvi fr-draggable">
 		<iframe src="영상 url" width="100%" height="480px" frameborder="0"></iframe>
 	</span>
 </div>
+
+
+5. 인터파크
+<div style="position: relative; margin: 0 auto 20px; padding-bottom: 56.25%">
+	<iframe frameborder="0" width="100%" height="100%" src="" style="position: absolute; top: 0; left: 0;"></iframe>
+</div>
+
 
 ```
 
