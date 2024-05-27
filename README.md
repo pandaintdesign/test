@@ -32,6 +32,13 @@
   </div>
 </div>
 
+4. 위메프2.0
+<div>
+	<span class="fr-video fr-fvc fr-dvi fr-draggable">
+		<iframe src="영상 url" width="100%" height="480px" frameborder="0"></iframe>
+	</span>
+</div>
+
 ```
 
 
