@@ -55,6 +55,9 @@
 
 
 7. 핫트랙스
+    <div style="position: relative; margin: 0 auto 20px; padding-bottom: 56.25%;">
+      <iframe style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); min-height: 210px;" width="100%" height="100%" src="영상 url" frameborder="0" allowfullscreen=""></iframe>
+    </div>
 
 ```
 
