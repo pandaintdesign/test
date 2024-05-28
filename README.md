@@ -62,9 +62,15 @@
 
 8. 롯데 ON
 <div style="position: relative; margin: 0 auto 20px; padding-bottom: 56.25%; text-align: right;">
-        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/CNdAvMZDFmc" frameborder="0"
+        <iframe width="100%" height="100%" src="영상 url" frameborder="0"
               allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="position: absolute; top: 0; left: 0;"></iframe>
         </div>
+
+
+9. 바보사랑
+   <div style="position: relative; margin: 0 auto 20px; padding-bottom: 56.25%;">
+            <iframe src="영상 url" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+          </div>
 
 ```
 
