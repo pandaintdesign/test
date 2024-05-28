@@ -59,6 +59,13 @@
       <iframe style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); min-height: 210px;" width="100%" height="100%" src="영상 url" frameborder="0" allowfullscreen=""></iframe>
     </div>
 
+
+8. 롯데 ON
+<div style="position: relative; margin: 0 auto 20px; padding-bottom: 56.25%; text-align: right;">
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/CNdAvMZDFmc" frameborder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="position: absolute; top: 0; left: 0;"></iframe>
+        </div>
+
 ```
 
 
