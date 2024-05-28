@@ -47,6 +47,12 @@
 </div>
 
 
+6. 1300k
+<div class="dpage_wrap" style="margin: 0 auto 20px;">
+   <iframe class="dpage_youtube" width="100%" height="480px" src="영상 url" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+
 ```
 
 
