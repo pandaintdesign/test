@@ -207,7 +207,7 @@ echo "# test" >> README.md
 6.git push -u origin main (업로드 할 때 마지막에 브랜치명을 입력해 주세요. 이부분은 추후 업로드일 때도 똑같음)
 ```
 
-**[업로드 하는 방법]**
+**[원격디렉토리(깃허브)에 업로드 하는 방법]**
 ```
 1.git remote add origin https://github.com/pandaintdesign/폴더명.git
 2.git branch -M main
