@@ -67,10 +67,10 @@
         </div>
 
 
-9. 바보사랑
+9. 바보사랑 >> 앞으로 생성될 상세페이지에는 영상 넣지 말것. (iframe 지원X)
    <div style="position: relative; margin: 0 auto 20px; padding-bottom: 56.25%;">
             <iframe src="영상 url" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
-          </div>
+   </div>
 
 10. 무신사
 <div style="position: relative; margin: 0 auto 20px; padding-bottom: 56.25%;">
