@@ -208,10 +208,19 @@ echo "# test" >> README.md
 6.git push -u origin main (업로드 할 때 마지막에 브랜치명을 입력해 주세요. 이부분은 추후 업로드일 때도 똑같음)
 ```
 
-**[git 세팅 후 원격디렉토리(깃허브)에 업로드 하는 방법]**
+
+### git 세팅 후 과정
+
+**[로컬디렉토리 > 원격디렉토리(깃허브)에 업로드]**
 ```
 1.git add . 혹은 git add 로컬디렉토리 경로 >> . 는 전체 선택과 같은 개념
-2. git status >> 현재 상황 체크  
+2.git commit -m '커밋 명(아무거나 써도 됨)'
+3.git push -u origin pandaint
+
+```
+**[원격디렉토리(깃허브) > 로컬디렉토리에 다운로드]**
+```
+1.git add . 혹은 git add 로컬디렉토리 경로 >> . 는 전체 선택과 같은 개념
 2.git commit -m '커밋 명(아무거나 써도 됨)'
 3.git push -u origin pandaint
 
